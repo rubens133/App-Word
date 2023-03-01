@@ -2,7 +2,7 @@
     "Version": "1",
     "ReleaseNotes": "SEJA BEM VINDO",
     "Sms": "#",
-    "UrlUpdate": "#",
+    "UrlUpdate": "https://raw.githubusercontent.com/rubens133/App-Word/main/Config",
     "EmailFeedback": "sac@wordmasater.com",
     "UrlContato": "#",
     "UrlTermos": "https://telegra.ph/Termos-de-uso-07-31",
@@ -57,7 +57,7 @@
        "Info": "Tlsws"
 },
 {
-       "Name": " 🔵TIM DIRECT",
+       "Name": " ☆ Tim - Premium 01",
       "FLAG": " tim", 
       "Payload": "HTTP/1.1[crlf] [crlf][crlf]•", 
       "SNI": "", 
@@ -87,7 +87,7 @@
        "Info": "Proxy"
 },
 {
-      "Name": "🔵TIM hep TESTE",
+      "Name": "☆ Tim - Premium 04",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: wolrdmasater.com.br[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
@@ -97,7 +97,7 @@
       "Info": "Proxy"
 },
 {
-      "Name": "☆ Tim - Premium 04",
+      "Name": "☆ Tim - Premium 05",
       "FLAG": " tim", 
       "Payload": "HTTP/1.1[crlf] [crlf][crlf]•", 
       "SNI": "", 
@@ -107,7 +107,7 @@
       "Info": "Proxy"
 },
 {
-      "Name": "☆ Tim - Premium 05",
+      "Name": "☆ Tim - Premium 06",
       "FLAG": " tim", 
       "Payload": "GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: gvnet.site[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]", 
       "SNI": "", 
@@ -116,7 +116,5 @@
       "ProxyPort": "80", 
       "Info": "Proxy"
 }
-
-
   ]
 }
