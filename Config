@@ -1,5 +1,5 @@
 {
-    "Version": "1",
+    "Version": "2",
     "ReleaseNotes": "SEJA BEM VINDO",
     "Sms": "#",
     "UrlUpdate": "https://raw.githubusercontent.com/rubens133/App-Word/main/Config",
@@ -17,8 +17,8 @@
             "Name": "Servidor - BR 01",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "wolrdmasater.com.br",
-            "CheckUser": "wolrdmasater.com.br:5454/checkUser",
+            "ServerIP": "vpn.wolrdmasater.com.br",
+            "CheckUser": "http://139.177.195.144:5555/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -26,15 +26,15 @@
         }
     ],
     "Networks": [
-{   
-       "Name": "☆ Vivo - Premium 01",
-       "FLAG": "vivo",
-       "Payload": "GET / HTTP/1.1[crlf]Host: d3ji3em7gdy2mc.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "",
-       "TlsIP": "",
-       "ProxyIP": "52.85.213.82",
-       "ProxyPort": "80",
-       "Info": "Proxy"
+{
+            "Name": "VIVO FRONT",
+            "FLAG": "vivo",
+            "Payload": "GET  / HTTP/1.1[crlf]Host: [random= d2ezbdsl5bdhs0.cloudfront.net][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf]Upgrade: TOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "recarga.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
 },
 {    
        "Name": "☆ Vivo - Premium 02",
@@ -57,29 +57,19 @@
        "Info": "Tlsws"
 },
 {
-       "Name": " ☆ Tim - Premium 01",
-      "FLAG": " tim", 
-      "Payload": "HTTP/1.1[crlf] [crlf][crlf]•", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "wolrdmasater.com.br", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-},
-{
        "Name": "☆ Tim - Premium 02",
        "FLAG": "tim",
        "Payload": "ACL http://1.1.1.1rotate=www.waze.com;buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;www.myspace.com.br;www.waze.com;1.0.0.5[crlf]",
        "SNI": "",
        "TlsIP": "",
-       "ProxyIP": "wolrdmasater.com.br",
+       "ProxyIP": "Vpn.wolrdmasater.com.br",
        "ProxyPort": "80",
        "Info": "Proxy"
 },
 {
        "Name": "☆ Tim - Premium 03",
        "FLAG": "tim",
-       "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: wolrdmasater.com.br[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+       "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: Vpn.wolrdmasater.com.br[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
        "SNI": "",
        "TlsIP": "",
        "ProxyIP": "104.19.240.25",
@@ -87,34 +77,14 @@
        "Info": "Proxy"
 },
 {
-      "Name": "☆ Tim - Premium 04",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: wolrdmasater.com.br[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "104.16.53.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-{
-      "Name": "☆ Tim - Premium 05",
+      "Name": "☆ Tim- Premium 04",
       "FLAG": " tim", 
       "Payload": "HTTP/1.1[crlf] [crlf][crlf]•", 
       "SNI": "", 
       "TlsIP": "", 
-      "ProxyIP": "wolrdmasater.com.br", 
+      "ProxyIP": "139.177.195.144", 
       "ProxyPort": "80", 
       "Info": "Proxy"
-},
-{
-      "Name": "☆ Tim - Premium 06",
-      "FLAG": " tim", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: gvnet.site[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "104.16.53.111", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-}
-  ]
+} 
+]
 }
