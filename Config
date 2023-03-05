@@ -1,5 +1,5 @@
 {
-    "Version": "5",
+    "Version": "6",
     "ReleaseNotes": "SEJA BEM VINDO",
     "Sms": "#",
     "UrlUpdate": "https://raw.githubusercontent.com/rubens133/App-Word/main/Config",
@@ -75,16 +75,6 @@
        "ProxyIP": "104.19.240.25",
        "ProxyPort": "80",
        "Info": "Proxy"
-},
-{
-      "Name": "☆ Tim- Premium 04",
-      "FLAG": " tim", 
-      "Payload": "HTTP/1.1[crlf] [crlf][crlf]•", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "139.177.195.144", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-} 
+}
 ]
 }
