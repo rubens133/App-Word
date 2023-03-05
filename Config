@@ -1,5 +1,5 @@
 {
-    "Version": "10",
+    "Version": "11",
     "ReleaseNotes": "SEJA BEM VINDO",
     "Sms": "#",
     "UrlUpdate": "https://raw.githubusercontent.com/rubens133/App-Word/main/Config",
@@ -33,7 +33,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "vpn.wolrdmasater.com.br",
-            "CheckUser": "http://139.177.195.144:5000/checkUser",
+            "CheckUser": "http://139.177.195.144:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
