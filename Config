@@ -1,15 +1,30 @@
 {
-    "Version": "9",
+    "Version": "10",
     "ReleaseNotes": "SEJA BEM VINDO",
     "Sms": "#",
     "UrlUpdate": "https://raw.githubusercontent.com/rubens133/App-Word/main/Config",
     "EmailFeedback": "sac@wordmasater.com",
     "UrlContato": "#",
     "UrlTermos": "https://telegra.ph/Termos-de-uso-07-31",
-    "CheckUser": "null",
+    "CheckUser": "true",
     "Udp": [
         {
             "Porta": "7300"
+    },
+    {
+      "Porta": "7299"
+    },
+    {
+      "Porta": "7298"
+    },
+    {
+      "Porta": "7297"
+    },
+    {
+      "Porta": "7296"
+    },
+    {
+      "Porta": "7295"
         }
     ],
     "Servers": [
@@ -25,7 +40,7 @@
             "PASS": ""
         }
     ],
-    "Networks": [
+      "Networks": [
 {
             "Name": "VIVO FRONT",
             "FLAG": "vivo",
@@ -58,12 +73,12 @@
 },
 {
      "Name": "📱 TIM velocidsde 🚀",
-            "FLAG": "tim",
-            "Payload": "GET / HTTP/1.1[lf]Host:landing.stoodi.com.br[lf]:[lf][split][lf]GET- / HTTP/1.1[lf]Host:Vpn.wolrdmasater.com.br[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
-            "SNI": "",
-            "TlsIP": "104.16.53.111",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[lf]Host:landing.stoodi.com.br[lf]:[lf][split][lf]GET- / HTTP/1.1[lf]Host:Vpn.wolrdmasater.com.br[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
             "Info": "proxi"
 },
 {
@@ -78,3 +93,4 @@
     },
   ]
 }
+
