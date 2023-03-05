@@ -1,5 +1,5 @@
 {
-    "Version": "3",
+    "Version": "4",
     "ReleaseNotes": "SEJA BEM VINDO",
     "Sms": "#",
     "UrlUpdate": "https://raw.githubusercontent.com/rubens133/App-Word/main/Config",
@@ -57,14 +57,14 @@
        "Info": "Tlsws"
 },
 {
-       "Name": "☆ Tim - Premium 02",
+       "Name": "🔵TIM velocidase🚀",
        "FLAG": "tim",
-       "Payload": "ACL http://1.1.1.1rotate=www.waze.com;buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;www.myspace.com.br;www.waze.com;1.0.0.5[crlf]",
+       "Payload": "GET / HTTP/1.1[lf]Host:landing.stoodi.com.br[lf]:[lf][split][lf]GET- / HTTP/1.1[lf]Host: Vpn.wolrdmasater.com.br[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]
        "SNI": "",
        "TlsIP": "",
-       "ProxyIP": "Vpn.wolrdmasater.com.br",
+       "ProxyIP": "104.16.53.111",
        "ProxyPort": "80",
-       "Info": "Proxy"
+       "Info": "proxi"
 },
 {
        "Name": "☆ Tim - Premium 03",
