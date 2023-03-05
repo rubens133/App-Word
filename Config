@@ -18,7 +18,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "vpn.wolrdmasater.com.br",
-            "CheckUser": "http://139.177.195.144:5555/checkUser",
+            "CheckUser": "http://139.177.195.144:5000/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
